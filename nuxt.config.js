@@ -47,7 +47,7 @@ module.exports = {
         }
     },
     server:{
-        port: 5000,
+        port: 3000,
         host:"0.0.0.0"
     },
     plugins: [
